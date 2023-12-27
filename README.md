@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devkirat.me](https://devkirat.me)
 
-- 📫 How to reach me **info.gursingh@gmail.com**
+- 📫 How to reach me **singh.gurkirat2707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
