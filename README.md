@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Docker**
 
-- 👨‍💻 All of my projects are available at [https://devkirat.me](https://devkirat.me)
+- 👨‍💻 All of my projects are available at [https://devkirat.me/projects](https://devkirat.me/projects)
 
 - 📫 How to reach me **singh.gurkirat2707@gmail.com**
 
